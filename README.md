@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Federico Leandro Carrizo
 #### Full stack Developer
-Hola a todos soy Federico, tengo 29 años, Tucumán, Argentina.
+Hola a todos soy Federico, tengo 30 años, Tucumán, Argentina.
 Apasionado en el aprendizaje, con ilusiones constante de crecimiento, con maravillosas ganas de trabajar en este majestuoso mundo IT.
 
 
